@@ -34,6 +34,17 @@ The ambition goes beyond building another AI tool:
 
 🔒 The core concept, architecture and product mechanics remain private for now. More when it's ready.
 
+## 📡 Building in public
+
+I plan to document the journey **from zero to public launch** — the experiments, decisions, progress, mistakes and lessons behind what I build.
+
+- 🎥 Videos on [YouTube](https://www.youtube.com/@IsaacPolignac), [Instagram](https://www.instagram.com/isaacpolignac) and [TikTok](https://www.tiktok.com/@isaacpolignac)
+- ✍️ Ideas, research notes and progress updates on [X](https://x.com/isaacpolignac) and [LinkedIn](https://www.linkedin.com/in/isaac-polignac-683948430/)
+- 🧱 Regular updates to the project's repository once the public build phase begins
+- 🛠️ Useful standalone tools and experiments released as public open-source repositories
+
+The goal is to share the real process of building — not just the polished result — while keeping the project's protected core mechanics private.
+
 ## 🧠 AI, agents & automation
 
 <p align="center">
