@@ -12,6 +12,11 @@
   <a href="https://www.tiktok.com/@isaacpolignac"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
+<p align="center">
+  <strong>🤝 Let's connect</strong><br>
+  <sub>Always open to ambitious founders, engineers, designers, researchers, operators and investors.</sub>
+</p>
+
 ---
 
 ## 👋 About me
@@ -113,6 +118,10 @@ The goal is to share the real process of building — not just the polished resu
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=IsaacPolignac&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55E77B&icon_color=55E77B&text_color=C9D1D9&rank_icon=github" width="480" alt="Isaac's GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IsaacPolignac&hide_border=true&background=0D1117&ring=55E77B&fire=55E77B&currStreakLabel=55E77B&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="480" alt="Isaac's GitHub streak">
 </p>
 
 ---
