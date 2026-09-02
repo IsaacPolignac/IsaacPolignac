@@ -1,27 +1,137 @@
-# 💫 About Me:
-👋 Hey, I’m Isaac — a 20-year-old builder curious about AI, software, business and e-commerce.<br><br>🔭 I’m currently building a private software project around AI, creation and digital products.<br><br>🧠 I learn by testing ideas, building real things and going way too deep into research rabbit holes.<br><br>🤝 Always happy to meet ambitious founders, engineers, designers and curious builders.<br><br>⚡ Always curious. Usually building something.
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Isaac Polignac">
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaacpolignac) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@isaacpolignac) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/isaacpolignac) 
-
-# 💻 Tech Stack:
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=IsaacPolignac&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=IsaacPolignac&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IsaacPolignac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IsaacPolignac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IsaacPolignac&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://x.com/isaacpolignac">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/isaac-polignac-683948430/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/isaacpolignac">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.tiktok.com/@isaacpolignac">TikTok</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=IsaacPolignac&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+I'm a 20-year-old builder exploring the intersection of **AI, software, systems, business and e-commerce**.
+
+I'm extremely curious by nature. A large part of my time goes into researching, testing ideas, reading documentation, experimenting with new tools and trying to understand how systems actually work beneath the surface.
+
+I have ADHD. When something catches my attention, I can go very deep into it — sometimes spending hours following research rabbit holes, testing things and connecting ideas between completely different subjects.
+
+I'm also actively learning business. I'm interested in how product, technology, distribution, marketing, operations and infrastructure interact rather than treating them as isolated disciplines.
+
+I don't pretend to be an expert in everything I explore. I'm learning in public, building in public and improving through execution.
+
+> **Always learning. Always researching. Always building.**
+
+## Currently building
+
+### Stealth software project
+
+I'm currently working on my most ambitious project yet.
+
+It's a software platform at the intersection of **AI, creation and digital products**.
+
+I'm deliberately keeping the core architecture, product mechanics and differentiating ideas private for now.
+
+The broader ambition is:
+
+> **Rethink how people go from an idea to something real.**
+
+I believe there is a large opportunity to improve the way people build, launch and evolve digital products.
+
+I'm still early.
+
+More when it's ready.
+
+## What I'm exploring
+
+| Area | What I'm interested in |
+| --- | --- |
+| **AI** | LLMs, agents, orchestration and AI-native product experiences |
+| **Software** | Products, interfaces, developer tools and architecture |
+| **Systems** | Automation, workflows, infrastructure and scalable operations |
+| **Business** | Strategy, distribution, growth, operations and business models |
+| **E-commerce** | Learning acquisition, branding, conversion, logistics and customer behavior through real projects |
+| **Product** | Turning unclear ideas into things people actually want |
+
+## How I learn
+
+→ I question almost everything.<br>
+→ I research before forming strong opinions.<br>
+→ I learn fastest by building real things.<br>
+→ I regularly disappear into research rabbit holes.<br>
+→ I document what I learn.<br>
+→ I constantly test new technologies and workflows.<br>
+→ I try to understand systems, not just individual tools.<br>
+→ I connect ideas from different fields.<br>
+→ Curiosity is probably my strongest advantage.
+
+## Current toolkit
+
+### Models
+
+`ChatGPT` · `Claude` · `Gemini`
+
+### Agents & automation
+
+`Hermes Agent` · `AI agents` · `n8n`
+
+### Building
+
+`Codex` · `Claude Code` · `GitHub` · `VS Code`
+
+### Infrastructure
+
+`Linux` · `VPS` · `Docker` · `Cloudflare`
+
+## Learning business
+
+I'm deliberately learning business by studying companies, products, distribution, marketing, unit economics, operations and customer behavior. Building real projects gives me a way to test those ideas instead of only reading about them. I'm especially interested in the connection between technology and distribution.
+
+## Principles
+
+> Build things people actually want.<br>
+> Understand the system, not just the interface.<br>
+> Automate what shouldn't require repetitive human work.<br>
+> Distribution matters.<br>
+> Stay curious.<br>
+> Ship, learn, improve.
+
+## Things I care about
+
+- AI as leverage rather than a gimmick
+- Products people genuinely want
+- Systems that remove unnecessary complexity
+- Distribution
+- Great user experiences
+- Automation
+- Long-term thinking
+- Learning through execution
+- Difficult and unconventional problems
+
+## Open to meeting
+
+I'm always interested in meeting **founders, engineers, designers, researchers, operators, investors and deeply curious people**.
+
+I especially enjoy talking to people building ambitious products, experimenting with new technologies or thinking differently about how things should work.
+
+If you're working on something interesting, feel free to reach out.
+
+<p align="center">
+  <strong>Let's build something that matters.</strong>
+</p>
+
+<p align="center">
+  <a href="https://x.com/isaacpolignac">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/isaac-polignac-683948430/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/isaacpolignac">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.tiktok.com/@isaacpolignac">TikTok</a>
+</p>

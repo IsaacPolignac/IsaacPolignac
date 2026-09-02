@@ -1,29 +1,44 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Isaac Polignac</title>
-  <desc id="desc">Builder working across AI, software, systems and business</desc>
+  <desc id="desc">IP — Builder working across AI, software, systems and business</desc>
 
-  <rect width="1200" height="260" rx="12" fill="#0D1117"/>
-  <rect x="0.5" y="0.5" width="1199" height="259" rx="11.5" stroke="#30363D"/>
+  <defs>
+    <pattern id="dot-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#8B949E"/>
+    </pattern>
+    <clipPath id="geometry-clip">
+      <rect x="900" y="56" width="260" height="104" rx="4"/>
+    </clipPath>
+  </defs>
 
-  <g stroke="#30363D" stroke-width="1" opacity="0.42">
-    <path d="M40 52H1160"/>
-    <path d="M40 208H1160"/>
+  <rect width="1200" height="250" rx="10" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="249" rx="9.5" stroke="#30363D"/>
+
+  <path d="M40 48H1160" stroke="#30363D" stroke-width="1" opacity="0.48"/>
+  <path d="M40 202H1160" stroke="#30363D" stroke-width="1" opacity="0.48"/>
+  <circle cx="40" cy="48" r="2.5" fill="#55E77B"/>
+  <circle cx="1160" cy="202" r="2.5" fill="#55E77B"/>
+
+  <g transform="translate(64 80)">
+    <rect x="0.5" y="0.5" width="89" height="89" rx="9.5" stroke="#55E77B"/>
+    <path d="M21 22V68" stroke="#55E77B" stroke-width="4" stroke-linecap="square"/>
+    <path d="M38 68V22H55C65.4934 22 74 30.5066 74 41C74 51.4934 65.4934 60 55 60H38" stroke="#55E77B" stroke-width="4" stroke-linecap="square" stroke-linejoin="round"/>
   </g>
 
-  <g transform="translate(64 85)">
-    <rect x="0.5" y="0.5" width="89" height="89" rx="10.5" stroke="#55E77B"/>
-    <path d="M20 21V69M36 21H55C65.4934 21 74 29.5066 74 40C74 50.4934 65.4934 59 55 59H36V21Z" stroke="#55E77B" stroke-width="4" stroke-linecap="square" stroke-linejoin="round"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="188" y="82" fill="#55E77B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="18" font-weight="600" letter-spacing="1.5">BUILD / LEARN / REPEAT</text>
+    <text x="186" y="137" fill="#F0F6FC" font-size="52" font-weight="600" letter-spacing="-1.5">Isaac Polignac</text>
+    <text x="188" y="174" fill="#8B949E" font-size="21" font-weight="500" letter-spacing="1.5">BUILDER · AI · SOFTWARE · SYSTEMS · BUSINESS</text>
   </g>
 
-  <g fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="186" y="140" font-size="52" font-weight="600" letter-spacing="-1.5">Isaac Polignac</text>
-    <text x="188" y="176" fill="#8B949E" font-size="17" font-weight="500" letter-spacing="2.2">BUILDER · AI · SOFTWARE · SYSTEMS · BUSINESS</text>
+  <g clip-path="url(#geometry-clip)" opacity="0.55">
+    <rect x="916" y="60" width="264" height="104" fill="url(#dot-grid)" opacity="0.48"/>
+    <path d="M920 142L974 94L1024 124L1084 72L1148 106" stroke="#8B949E" stroke-width="1"/>
+    <path d="M938 76H1014L1058 116H1148" stroke="#30363D" stroke-width="1"/>
+    <path d="M996 152V136L1044 88H1128" stroke="#30363D" stroke-width="1"/>
+    <circle cx="920" cy="142" r="3" fill="#55E77B"/>
+    <circle cx="974" cy="94" r="2.5" fill="#55E77B"/>
+    <circle cx="1024" cy="124" r="2.5" fill="#55E77B"/>
+    <circle cx="1084" cy="72" r="3" fill="#55E77B"/>
   </g>
-
-  <g fill="#55E77B" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="1.5">
-    <text x="188" y="91">BUILD / LEARN / REPEAT</text>
-  </g>
-
-  <circle cx="40" cy="52" r="2" fill="#55E77B"/>
-  <circle cx="1160" cy="208" r="2" fill="#55E77B"/>
 </svg>
