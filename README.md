@@ -2,11 +2,12 @@
   <img src="./assets/header.svg" width="100%" alt="Isaac Polignac">
 </p>
 
-<h3 align="center">AI · SOFTWARE · AUTOMATION · SYSTEMS · BUSINESS</h3>
+<h3 align="center">AI · SOFTWARE · SYSTEMS · BUSINESS · E-COMMERCE</h3>
 
 <p align="center">
-  20-year-old builder turning ideas into products, workflows and software systems.<br>
-  Currently building a private platform at the intersection of <strong>AI, creation and digital products</strong>.<br>
+  20-year-old builder working across AI, software, systems, business and e-commerce.<br>
+  Building e-commerce projects to sharpen product, distribution and operations through execution.<br>
+  Currently developing a fundamentally new private platform around <strong>AI, creation and digital products</strong>.<br>
   <sub>Deep research. Fast experimentation. Constant execution.</sub>
 </p>
 
@@ -23,9 +24,9 @@
 <h2 align="center">🚧 Current focus</h2>
 
 <p align="center">
-  <strong>STEALTH SOFTWARE PROJECT</strong><br>
-  Rethinking how people go from an idea to something real.<br>
-  <sub>Core architecture and product mechanics remain private until launch.</sub>
+  <strong>A FUNDAMENTALLY NEW AI SOFTWARE PROJECT</strong><br>
+  My ambition is to revolutionize how people use AI to turn ideas into real products.<br>
+  <sub>The core concept, architecture and product mechanics remain private until launch.</sub>
 </p>
 
 <h2 align="center">🧠 AI, agents & automation</h2>
