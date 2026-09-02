@@ -27,6 +27,12 @@ I'm Isaac, a 20-year-old builder exploring **AI, software, business and e-commer
 
 ⚡ I learn continuously by building: researching, testing, documenting what works, then improving.
 
+## 🎓 Education, awards & certifications
+
+- 🎓 **Technical High School Diploma in Digital Systems — graduated with honors**
+- 🛡️ **Higher education in Cybersecurity**, focused on networks, infrastructure and secure systems
+- 🏆 **Multiple awards and certifications** earned throughout my technical journey
+
 ## 🛒 E-commerce execution
 
 I work across the e-commerce process, from product research and supplier sourcing to storefront, branding, conversion and acquisition. Hands-on experience with Shopify, WordPress and WooCommerce has taught me how product, distribution, operations and customer behavior connect. It is also where I keep learning business through real execution.
