@@ -14,114 +14,58 @@
 
 ---
 
-## About
+## 👋 Hey, I'm Isaac
 
-I'm a 20 y/o builder exploring the intersection of **AI, software, systems, business and e-commerce**.
+I'm 20, and I like building things and understanding why they work.
 
-I'm extremely curious by nature. I spend a lot of my time researching, testing ideas, reading, experimenting with new tools and trying to understand how things actually work beneath the surface.
+Most days, I'm either testing an idea, learning a new tool, or disappearing down a rabbit hole about AI, products, systems or business.
 
-I have ADHD, which makes that curiosity pretty relentless. When a subject catches my attention, I can disappear into it for hours — learning, experimenting and connecting ideas from completely different fields.
+I have ADHD, so when something catches my attention, I tend to go deep. Sometimes too deep. But that relentless curiosity is probably my biggest advantage.
 
-I'm actively learning business while building real things. Instead of treating technology, product, distribution, marketing and operations as separate subjects, I'm interested in understanding how they work together as systems.
+I'm still learning, and I don't pretend otherwise. I'd rather build something real, get it wrong, learn and improve than only talk about it.
 
-I don't pretend to be an expert in everything I explore.
+> Curious by default. Learning by building.
 
-I'm learning in public, building in public, documenting what I discover and improving continuously.
+## 🛠️ What I'm building
 
-> **Always learning. Always researching. Always building.**
+I'm quietly working on my most ambitious project so far: a software product at the intersection of **AI, creation and digital products**.
 
----
+I'm keeping the interesting parts private for now, but the question behind it is simple:
 
-## Currently building
-
-### Stealth software project
-
-I'm currently working on my most ambitious project yet.
-
-It's a new software platform at the intersection of **AI, creation and digital products**.
-
-The core architecture and differentiating ideas are intentionally private for now, but the ambition is simple:
-
-> **Rethink how people go from an idea to something real.**
-
-I believe there is an opportunity to fundamentally improve the way people build, launch and evolve things on the internet.
+> **How can we make it easier to turn an idea into something real?**
 
 More when it's ready.
 
----
+## 🧠 What I'm curious about
 
-## What I'm exploring
+- **AI** — LLMs, agents and AI-native products
+- **Software & product** — architecture, interfaces and useful tools
+- **Systems** — automation, workflows and scalable operations
+- **Business** — product, distribution, growth and long-term strategy
+- **E-commerce** — learning acquisition, branding, conversion and logistics in the real world
 
-| Area | What interests me |
-| --- | --- |
-| **Artificial Intelligence** | LLMs, agents, orchestration, AI-native products |
-| **Software** | Product architecture, interfaces, developer tools |
-| **Systems** | Automation, workflows, infrastructure, scalable operations |
-| **Business** | Product, distribution, strategy, growth and operations |
-| **E-commerce** | A real-world environment for learning acquisition, branding, conversion and logistics |
-| **Product** | Turning vague ideas into useful things people actually want |
+## ⚙️ How I work
 
----
+→ Research before forming strong opinions.<br>
+→ Learn by building and testing.<br>
+→ Understand the system, not just the tool.<br>
+→ Document useful discoveries.<br>
+→ Automate the boring stuff.
 
-## How I learn
+My current toolbox is simple:
 
-→ I question almost everything.<br>
-→ I research before forming strong opinions.<br>
-→ I learn by building real things.<br>
-→ I go down a lot of rabbit holes.<br>
-→ I document what I learn.<br>
-→ I constantly test new technologies and ideas.<br>
-→ I try to understand systems, not just tools.<br>
-→ Curiosity is probably my strongest advantage.
+**AI:** `ChatGPT` · `Claude` · `Gemini`<br>
+**Building:** `GitHub` · `Codex` · `Claude Code` · `VS Code`<br>
+**Automation:** `Hermes Agent` · `AI Agents` · `n8n` · `VPS / Linux`
 
----
+## 🤝 Let's connect
 
-## Tools I work with
+I enjoy meeting **founders, engineers, designers, researchers, operators, investors and curious builders** working on difficult or unconventional problems.
 
-### AI & Models
-
-`ChatGPT` · `Claude` · `Gemini`
-
-### Agents & Automation
-
-`Hermes Agent` · `AI Agents` · `n8n`
-
-### Building
-
-`GitHub` · `Codex` · `Claude Code` · `VS Code` · `VPS / Linux`
-
----
-
-## Things I care about
-
-- Building products people genuinely want
-- Using AI as leverage rather than as a gimmick
-- Designing systems that remove repetitive work
-- Understanding distribution as deeply as product
-- Learning through execution
-- Thinking long-term
-- Meeting people who are obsessed with building difficult things
-
----
-
-## Principles
-
-> Build things people want.<br>
-> Understand the system.<br>
-> Automate what shouldn't require humans.<br>
-> Stay curious.<br>
-> Ship, learn, improve.
-
----
-
-## Open to meeting
-
-I'm always interested in meeting **founders, engineers, designers, researchers, operators, investors and curious builders** working on difficult or unconventional problems.
-
-If you're building something ambitious — or just think deeply about technology and business — feel free to reach out.
+If you're building something ambitious—or just enjoy thinking deeply about technology and business—say hi.
 
 <p align="center">
-  <strong>Let's build something that matters.</strong>
+  <strong>Always happy to have an interesting conversation.</strong>
 </p>
 
 <p align="center">
