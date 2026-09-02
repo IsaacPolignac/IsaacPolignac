@@ -1,0 +1,29 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Isaac Polignac</title>
+  <desc id="desc">Builder working across AI, software, systems and business</desc>
+
+  <rect width="1200" height="260" rx="12" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="11.5" stroke="#30363D"/>
+
+  <g stroke="#30363D" stroke-width="1" opacity="0.42">
+    <path d="M40 52H1160"/>
+    <path d="M40 208H1160"/>
+  </g>
+
+  <g transform="translate(64 85)">
+    <rect x="0.5" y="0.5" width="89" height="89" rx="10.5" stroke="#55E77B"/>
+    <path d="M20 21V69M36 21H55C65.4934 21 74 29.5066 74 40C74 50.4934 65.4934 59 55 59H36V21Z" stroke="#55E77B" stroke-width="4" stroke-linecap="square" stroke-linejoin="round"/>
+  </g>
+
+  <g fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="186" y="140" font-size="52" font-weight="600" letter-spacing="-1.5">Isaac Polignac</text>
+    <text x="188" y="176" fill="#8B949E" font-size="17" font-weight="500" letter-spacing="2.2">BUILDER · AI · SOFTWARE · SYSTEMS · BUSINESS</text>
+  </g>
+
+  <g fill="#55E77B" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="1.5">
+    <text x="188" y="91">BUILD / LEARN / REPEAT</text>
+  </g>
+
+  <circle cx="40" cy="52" r="2" fill="#55E77B"/>
+  <circle cx="1160" cy="208" r="2" fill="#55E77B"/>
+</svg>
