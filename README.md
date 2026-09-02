@@ -24,6 +24,12 @@ I'm Isaac, a 20-year-old builder exploring the intersection of **AI, software, s
 
 ⚡ I learn fastest through execution. I research, build, test, document what works and improve from there.
 
+## 🛒 E-commerce execution
+
+I can take an e-commerce project from idea to launch **from A to Z** — product selection, supplier sourcing, store build, branding, payments, conversion setup and first acquisition campaigns.
+
+With a strong network of sourcing contacts in China and hands-on experience across Shopify, WordPress and WooCommerce, I can **build and launch a complete store in a day** when speed matters, then improve it through data, advertising and testing.
+
 ## 🚧 What I'm building
 
 I'm currently working on my most ambitious project yet: a fundamentally new software platform at the intersection of **AI, creation and digital products**.
@@ -86,10 +92,19 @@ The goal is to share the real process of building — not just the polished resu
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
-## 🎨 Product & design
+## 🛒 E-commerce & growth
 
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
+</p>
+
+## 🎨 Product & design
+
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </p>
