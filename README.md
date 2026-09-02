@@ -2,136 +2,86 @@
   <img src="./assets/header.svg" width="100%" alt="Isaac Polignac">
 </p>
 
+# 💫 About Me
+
+👋 Hey, I'm Isaac — a 20-year-old builder curious about AI, software, business and e-commerce.<br><br>
+🔭 I'm currently building a private software project around AI, creation and digital products.<br><br>
+🧠 I learn by testing ideas, building real things and going way too deep into research rabbit holes.<br><br>
+🤝 Always happy to meet ambitious founders, engineers, designers and curious builders.<br><br>
+⚡ Always curious. Usually building something.
+
+I have ADHD, and when something catches my attention I tend to go deep — researching, experimenting and connecting ideas across different fields. I'm still learning, and I don't pretend otherwise. I would rather build something real, learn from it and improve.
+
+## 🌐 Socials
+
 <p align="center">
-  <a href="https://x.com/isaacpolignac">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/isaac-polignac-683948430/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/isaacpolignac">Instagram</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.tiktok.com/@isaacpolignac">TikTok</a>
+  <a href="https://x.com/isaacpolignac"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/isaac-polignac-683948430/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/isaacpolignac"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@isaacpolignac"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
----
+## 🚧 Currently Building
 
-# About
+I'm working on my most ambitious project yet: a software platform at the intersection of **AI, creation and digital products**.
 
-I'm a 20-year-old builder exploring the intersection of **AI, software, systems, business and e-commerce**.
-
-I'm extremely curious by nature. A large part of my time goes into researching, testing ideas, reading documentation, experimenting with new tools and trying to understand how systems actually work beneath the surface.
-
-I have ADHD. When something catches my attention, I can go very deep into it — sometimes spending hours following research rabbit holes, testing things and connecting ideas between completely different subjects.
-
-I'm also actively learning business. I'm interested in how product, technology, distribution, marketing, operations and infrastructure interact rather than treating them as isolated disciplines.
-
-I don't pretend to be an expert in everything I explore. I'm learning in public, building in public and improving through execution.
-
-> **Always learning. Always researching. Always building.**
-
-## Currently building
-
-### Stealth software project
-
-I'm currently working on my most ambitious project yet.
-
-It's a software platform at the intersection of **AI, creation and digital products**.
-
-I'm deliberately keeping the core architecture, product mechanics and differentiating ideas private for now.
-
-The broader ambition is:
+I'm deliberately keeping the core mechanics and differentiating ideas private for now. The broader ambition is:
 
 > **Rethink how people go from an idea to something real.**
 
-I believe there is a large opportunity to improve the way people build, launch and evolve digital products.
+I'm still early. More when it's ready.
 
-I'm still early.
+## 🧠 What I'm Exploring
 
-More when it's ready.
+- **AI & LLMs** — models, agents, orchestration and AI-native product experiences
+- **Software & product** — useful tools, interfaces and architecture
+- **Systems** — automation, workflows and infrastructure
+- **Business** — product, distribution, growth and operations
+- **E-commerce** — acquisition, branding, conversion, logistics and customer behavior
 
-## What I'm exploring
+## 💻 Tools & Technologies
 
-| Area | What I'm interested in |
-| --- | --- |
-| **AI** | LLMs, agents, orchestration and AI-native product experiences |
-| **Software** | Products, interfaces, developer tools and architecture |
-| **Systems** | Automation, workflows, infrastructure and scalable operations |
-| **Business** | Strategy, distribution, growth, operations and business models |
-| **E-commerce** | Learning acquisition, branding, conversion, logistics and customer behavior through real projects |
-| **Product** | Turning unclear ideas into things people actually want |
+These are the tools I regularly use to research, build, automate and ship.
 
-## How I learn
+### AI & LLMs
 
-→ I question almost everything.<br>
-→ I research before forming strong opinions.<br>
-→ I learn fastest by building real things.<br>
-→ I regularly disappear into research rabbit holes.<br>
-→ I document what I learn.<br>
-→ I constantly test new technologies and workflows.<br>
-→ I try to understand systems, not just individual tools.<br>
-→ I connect ideas from different fields.<br>
-→ Curiosity is probably my strongest advantage.
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge&logo=probot&logoColor=55E77B)
 
-## Current toolkit
+### Building & automation
 
-### Models
-
-`ChatGPT` · `Claude` · `Gemini`
-
-### Agents & automation
-
-`Hermes Agent` · `AI agents` · `n8n`
-
-### Building
-
-`Codex` · `Claude Code` · `GitHub` · `VS Code`
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=55E77B)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-111111?style=for-the-badge&logo=probot&logoColor=55E77B)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Infrastructure
 
-`Linux` · `VPS` · `Docker` · `Cloudflare`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VPS](https://img.shields.io/badge/VPS-111111?style=for-the-badge&logo=gnometerminal&logoColor=55E77B)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Learning business
-
-I'm deliberately learning business by studying companies, products, distribution, marketing, unit economics, operations and customer behavior. Building real projects gives me a way to test those ideas instead of only reading about them. I'm especially interested in the connection between technology and distribution.
-
-## Principles
-
-> Build things people actually want.<br>
-> Understand the system, not just the interface.<br>
-> Automate what shouldn't require repetitive human work.<br>
-> Distribution matters.<br>
-> Stay curious.<br>
-> Ship, learn, improve.
-
-## Things I care about
-
-- AI as leverage rather than a gimmick
-- Products people genuinely want
-- Systems that remove unnecessary complexity
-- Distribution
-- Great user experiences
-- Automation
-- Long-term thinking
-- Learning through execution
-- Difficult and unconventional problems
-
-## Open to meeting
-
-I'm always interested in meeting **founders, engineers, designers, researchers, operators, investors and deeply curious people**.
-
-I especially enjoy talking to people building ambitious products, experimenting with new technologies or thinking differently about how things should work.
-
-If you're working on something interesting, feel free to reach out.
+## 📊 GitHub Activity
 
 <p align="center">
-  <strong>Let's build something that matters.</strong>
+  <img src="https://github-readme-stats.shion.dev/api?username=IsaacPolignac&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55E77B&icon_color=55E77B&text_color=C9D1D9&rank_icon=github" width="480" alt="Isaac's GitHub stats">
 </p>
 
 <p align="center">
-  <a href="https://x.com/isaacpolignac">X</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/isaac-polignac-683948430/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/isaacpolignac">Instagram</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.tiktok.com/@isaacpolignac">TikTok</a>
+  <img src="https://streak-stats.demolab.com?user=IsaacPolignac&hide_border=true&background=0D1117&ring=55E77B&fire=55E77B&currStreakLabel=55E77B&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="480" alt="Isaac's GitHub streak">
+</p>
+
+## 🤝 Let's Connect
+
+I'm always interested in meeting **founders, engineers, designers, researchers, operators, investors and deeply curious people**.
+
+If you're building something ambitious, experimenting with new technologies or thinking differently about how things should work, feel free to reach out.
+
+<p align="center">
+  <strong>Let's build something that matters.</strong>
 </p>
