@@ -5,13 +5,6 @@
 <h3 align="center">AI · SOFTWARE · SYSTEMS · BUSINESS · E-COMMERCE</h3>
 
 <p align="center">
-  20-year-old builder working across AI, software, systems, business and e-commerce.<br>
-  Building e-commerce projects to sharpen product, distribution and operations through execution.<br>
-  Currently developing a fundamentally new private platform around <strong>AI, creation and digital products</strong>.<br>
-  <sub>Deep research. Fast experimentation. Constant execution.</sub>
-</p>
-
-<p align="center">
   <a href="https://x.com/isaacpolignac"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/isaac-polignac-683948430/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@IsaacPolignac"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -21,15 +14,27 @@
 
 ---
 
-<h2 align="center">🚧 Current focus</h2>
+## 👋 About me
 
-<p align="center">
-  <strong>A FUNDAMENTALLY NEW AI SOFTWARE PROJECT</strong><br>
-  My ambition is to revolutionize how people use AI to turn ideas into real products.<br>
-  <sub>The core concept, architecture and product mechanics remain private until launch.</sub>
-</p>
+I'm Isaac, a 20-year-old builder exploring the intersection of **AI, software, systems, business and e-commerce**. I like turning unclear ideas into real products, workflows and experiments.
 
-<h2 align="center">🧠 AI, agents & automation</h2>
+🧠 I have ADHD, and when something catches my attention I tend to go very deep — reading documentation, testing tools, following research rabbit holes and connecting ideas from completely different fields.
+
+🛒 Alongside software, I build e-commerce projects. They give me a real environment to understand product, branding, distribution, conversion, operations and customer behavior.
+
+⚡ I learn fastest through execution. I research, build, test, document what works and improve from there.
+
+## 🚧 What I'm building
+
+I'm currently working on my most ambitious project yet: a fundamentally new software platform at the intersection of **AI, creation and digital products**.
+
+The ambition goes beyond building another AI tool:
+
+> **Revolutionize how people use AI to turn ideas into real products.**
+
+🔒 The core concept, architecture and product mechanics remain private for now. More when it's ready.
+
+## 🧠 AI, agents & automation
 
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
@@ -42,7 +47,7 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
-<h2 align="center">💻 Development</h2>
+## 💻 Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -55,7 +60,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-<h2 align="center">☁️ Cloud & infrastructure</h2>
+## ☁️ Cloud & infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -70,7 +75,7 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
-<h2 align="center">🎨 Product & design</h2>
+## 🎨 Product & design
 
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
@@ -78,7 +83,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </p>
 
-<h2 align="center">📊 GitHub</h2>
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=IsaacPolignac&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55E77B&icon_color=55E77B&text_color=C9D1D9&rank_icon=github" width="480" alt="Isaac's GitHub stats">
@@ -86,7 +91,10 @@
 
 ---
 
+## 🤝 Let's connect
+
+I'm always interested in meeting **founders, engineers, designers, researchers, operators and investors** who are building ambitious things or thinking differently about how technology should work.
+
 <p align="center">
-  <strong>Open to founders, engineers, designers, researchers, operators and investors.</strong><br>
-  <sub>If you're building something ambitious, let's talk.</sub>
+  <strong>If you're working on something interesting, let's talk.</strong>
 </p>
