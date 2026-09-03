@@ -27,6 +27,8 @@ I'm Isaac, a 20-year-old builder exploring **AI, software, business and e-commer
 
 ⚡ I learn continuously by building: researching, testing, documenting what works, then improving.
 
+♟️ In my spare time, I enjoy playing chess.
+
 ## 🎓 Education, awards & certifications
 
 - 🎓 **Technical High School Diploma in Digital Systems — graduated with honors**
