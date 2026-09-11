@@ -1,6 +1,6 @@
 <svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Isaak Sahi</title>
-  <desc id="desc">Isaak Sahi - développement logiciel</desc>
+  <title id="title">Isaac Polignac</title>
+  <desc id="desc">IP — Builder working across AI, software, systems and business</desc>
 
   <defs>
     <pattern id="dot-grid" width="24" height="24" patternUnits="userSpaceOnUse">
@@ -21,14 +21,14 @@
 
   <g transform="translate(64 80)">
     <rect x="0.5" y="0.5" width="89" height="89" rx="9.5" stroke="#55E77B"/>
-    <path d="M28 22V68" stroke="#55E77B" stroke-width="4" stroke-linecap="square"/>
-    <path d="M68 29C64 24 58 22 52 22C43 22 38 27 38 34C38 42 44 44 53 47C62 50 69 53 69 61C69 68 62 72 53 72C46 72 39 69 35 64" stroke="#55E77B" stroke-width="4" fill="none" stroke-linecap="square"/>
+    <path d="M21 22V68" stroke="#55E77B" stroke-width="4" stroke-linecap="square"/>
+    <path d="M38 68V22H55C65.4934 22 74 30.5066 74 41C74 51.4934 65.4934 60 55 60H38" stroke="#55E77B" stroke-width="4" stroke-linecap="square" stroke-linejoin="round"/>
   </g>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="188" y="82" fill="#55E77B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="18" font-weight="600" letter-spacing="1.5">APPRENDRE / TESTER / PROGRESSER</text>
-    <text x="186" y="137" fill="#F0F6FC" font-size="52" font-weight="600" letter-spacing="-1.5">Isaak Sahi</text>
-    <text x="188" y="174" fill="#8B949E" font-size="21" font-weight="500" letter-spacing="1.5">DÉVELOPPEMENT LOGICIEL · SYSTÈMES · OUTILS IA</text>
+    <text x="188" y="82" fill="#55E77B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="18" font-weight="600" letter-spacing="1.5">BUILD / LEARN / REPEAT</text>
+    <text x="186" y="137" fill="#F0F6FC" font-size="52" font-weight="600" letter-spacing="-1.5">Isaac Polignac</text>
+    <text x="188" y="174" fill="#8B949E" font-size="21" font-weight="500" letter-spacing="1.5">BUILDER · AI · SOFTWARE · SYSTEMS · BUSINESS</text>
   </g>
 
   <g clip-path="url(#geometry-clip)" opacity="0.55">
